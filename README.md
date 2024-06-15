@@ -59,7 +59,7 @@ From the "sales" database, the following tables were chosen for analysis:
 
 ![Screenshot (13)](https://github.com/artisingh002/Tablaeu_project/assets/144256381/02a8c65c-4fb9-40f7-84c6-29d5aac18e85)
 
-#### Sales Quantity By Market
+#### Sales Quantity By Market Page
 
 ![Screenshot (14)](https://github.com/artisingh002/Tablaeu_project/assets/144256381/57c12378-c129-434e-af37-dd507ba80d14)
 
